@@ -1,0 +1,48 @@
+.library {
+  display: inline;
+  background-color: #C49562;
+  color: #212121;
+}
+
+.links {
+  margin: 100px;
+  display: inline;
+}
+
+.about {
+  margin: 50px;
+  border: 2px solid red;
+}
+
+.books {
+  margin: 50px;
+}
+
+.autors {
+  margin: 50px;
+}
+
+.textoAbout {
+  background-color: antiquewhite;
+  font-size: 18px;
+}
+
+.bold {
+  font-weight: 700;
+}
+
+.colorBold {
+  font-weight: 700;
+  color: #5656d7;
+}
+
+.colorItalic {
+  font-style: italic;
+  color: red;
+}
+
+.locais {
+  text-align: center;
+  list-style: none;
+  font-weight: bolder;
+}
